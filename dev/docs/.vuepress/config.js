@@ -1,7 +1,7 @@
 module.exports = {
   title:'Vue Admin',
   description:'Vue Admin',
-  base:'/vue-admin-docs/',
+  base:'/vue-press-page/',
   head: [
     ['link', {rel:'icon', href:'/favicon.ico' }]
   ],
