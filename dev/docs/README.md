@@ -3,7 +3,7 @@ title: Home
 home: true
 heroImage: /logo.png
 heroText: Vue Admin
-tagline: Vue Admin front-end/design solution for mid-stage
+tagline: Vue Admin front-end | @Devteam | Thanks for Vuejs, Antd Design  Vue
 actionText: Get started quickly →
 actionLink: /start/use
 features:
